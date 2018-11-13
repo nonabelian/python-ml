@@ -1,0 +1,13 @@
+*.log
+*.swp
+.DS_Store
+*.pyc
+__pycache__/
+.cache/
+.coverage*
+tags
+tags.lock
+*.egg-info
+*.eggs
+*.xml
+.ipynb_checkpoints/
