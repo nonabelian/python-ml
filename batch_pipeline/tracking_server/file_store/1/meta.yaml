@@ -1,0 +1,4 @@
+artifact_location: /Users/albrechd/Documents/github/python-ml/batch_pipeline/tracking_server/artifacts/iris_knn
+experiment_id: 1
+lifecycle_stage: active
+name: iris_knn|2019-01-17T01:31:56.967893

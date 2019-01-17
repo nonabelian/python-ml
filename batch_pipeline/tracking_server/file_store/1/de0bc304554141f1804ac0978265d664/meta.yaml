@@ -1,0 +1,14 @@
+artifact_uri: /Users/albrechd/Documents/github/python-ml/batch_pipeline/tracking_server/artifacts/iris_knn/de0bc304554141f1804ac0978265d664/artifacts
+end_time: 1547688717575
+entry_point_name: ''
+experiment_id: 1
+lifecycle_stage: active
+name: ''
+run_uuid: de0bc304554141f1804ac0978265d664
+source_name: train.py
+source_type: 4
+source_version: 49d3447246beb06adcf6fa373111388e322fe630
+start_time: 1547688717525
+status: 3
+tags: []
+user_id: albrechd
